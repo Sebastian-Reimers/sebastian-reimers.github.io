@@ -83,11 +83,11 @@ author:
   name             : "Sebastian Reimers"
   avatar           : "profile.png"
   bio              : "PhD student | TU Munich"
-  location         : "Dresden, Germany"
-  employer         : "Huawei | Dresden Research Center"
+  location         : "Munich, Germany"
+  employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "sebastian.reimers@tum.de"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sebastian-Reimers"
+  github           : "ReimersS"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "sebastian-reimers"
   orcid            :
   pinterest        :
   soundcloud       :
