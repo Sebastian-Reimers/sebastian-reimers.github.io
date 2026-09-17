@@ -10,6 +10,8 @@ If you are interested in writing a thesis with us, please check our [application
 
 ### Supervised Theses
 
+* Alexander Bartelt: "Design and Implementation of Memory Consistency Model aware MLIR Dialects in a Compiler for Concurrent Programs" (B.Sc., in progress)
+* Theofilos Augoustis: ["Design & Implementation of an ARM64 Dynamic Backend for a Hybrid Binary Translator"](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2024/winter/docs/msc_theofilos_augoustis_arm_dbt.pdf) (Winter '24)
 * Nicola Crivellin: ["Execution State Comparison for Emulators using Symbolic Execution"](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2024/summer/docs/msc_nicola_crivellin_execution_state_comparison_for_emulators.pdf) (Summer '24)
 * Alp Berkman: ["Automated Test Case Generation for Emulators using Symbolic Execution"](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2023/winter/docs/bsc_berkman_automated_test_case_generation_for_emulators_using_symbolic_execution.pdf) (Winter '24)
 
