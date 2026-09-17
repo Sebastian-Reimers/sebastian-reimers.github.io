@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian Reimers"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "PhD student | TU Munich"
   location         : "Munich, Germany"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "sebastian-reimers"
-  orcid            :
+  orcid            : "0009-0000-5168-2070"
   pinterest        :
   soundcloud       :
   stackoverflow    :

@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [systems research group](https://dse.in.tum.de/) at the Technical University of Munich,
+I am a PhD student in the [systems research group](https://dse.in.tum.de/) at the Department of Computer Science // TUM School of Computation, Information and Technology (CIT), Technical University of Munich (TUM), 
 supervised by [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)
-working on [Binary Translation and Memory Models](https://dse.in.tum.de/binary-translation-group/).
-
-## Theses
-If you are interested in writign a thesis with us, please check our [application instructions](https://dse.in.tum.de/thesis/)
+working on [Binary Translation](https://dse.in.tum.de/binary-translation-group/) and **Compilation between weak memory models**.
