@@ -14,8 +14,10 @@ supervised by [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/).
 I work on [Binary Translation](https://dse.in.tum.de/binary-translation-group/) and __Compilation between Weak Memory Models__.
 
 ## Education
-* **Ph.D., Computer Science** — Technical University of Munich (May 2023 – Present)
-* **M.Sc., Computer Science** — Technische Universität Dresden (2019 – 2021)
-* **B.Sc., Computer Science** — Technische Universität Dresden (2015 – 2019)
+<ul class="edu-list">
+<li><span class="edu-label">Ph.D., Computer Science</span><span class="edu-detail">Technical University of Munich (2023 – Present)</span></li>
+<li><span class="edu-label">Intern</span><span class="edu-detail">Huawei Dresden Research Center (2021 – 2023)</span></li>
+<li><span class="edu-label">M.Sc., Computer Science</span><span class="edu-detail">Technische Universität Dresden (2019 – 2021)</span></li>
+<li><span class="edu-label">B.Sc., Computer Science</span><span class="edu-detail">Technische Universität Dresden (2015 – 2019)</span></li>
+</ul>
 
-**Internship:** Huawei Dresden Research Center (Jul 2021 – May 2023)
