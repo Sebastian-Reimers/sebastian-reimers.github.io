@@ -6,7 +6,7 @@ layout: archive
 ---
 
 ## Theses
-If you are interested in writign a thesis with us, please check our [application instructions](https://dse.in.tum.de/thesis/)
+If you are interested in writing a thesis with us, please check our [application instructions](https://dse.in.tum.de/thesis/)
 
 ### Supervised Theses
 

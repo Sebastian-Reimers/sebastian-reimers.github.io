@@ -7,7 +7,7 @@ author_profile: true
 
 ## Should Linux Kernel Memory Model Dependencies Be Afraid of a Big Bad Optimizing Compiler?
 #### ASPLOS'27
-_Sebastian Reimers_, Martin Fink, Marco Elver, Hernán Poncede León, Dennis Sprokholt, Pramod Bhatotia
+_Sebastian Reimers_, Martin Fink, Marco Elver, Hernán Ponce de León, Dennis Sprokholt, Pramod Bhatotia
 
 ## Focaccia: Semantic Validation for CPU Emulators
 #### ASPLOS'27
